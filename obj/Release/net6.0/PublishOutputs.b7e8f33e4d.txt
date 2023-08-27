@@ -1,0 +1,7 @@
+C:\Git Repos\asp-core-webapp-linux-demo\obj\Release\net6.0\PubTmp\Out\asp-core-webapp-linux-demo.exe
+C:\Git Repos\asp-core-webapp-linux-demo\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Git Repos\asp-core-webapp-linux-demo\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Git Repos\asp-core-webapp-linux-demo\obj\Release\net6.0\PubTmp\Out\asp-core-webapp-linux-demo.dll
+C:\Git Repos\asp-core-webapp-linux-demo\obj\Release\net6.0\PubTmp\Out\asp-core-webapp-linux-demo.deps.json
+C:\Git Repos\asp-core-webapp-linux-demo\obj\Release\net6.0\PubTmp\Out\asp-core-webapp-linux-demo.runtimeconfig.json
+C:\Git Repos\asp-core-webapp-linux-demo\obj\Release\net6.0\PubTmp\Out\asp-core-webapp-linux-demo.pdb
